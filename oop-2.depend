@@ -1,0 +1,627 @@
+# depslib dependency file v1.0
+1651063732 source:c:\users\laptop\desktop\c++\oop-2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<chrono>
+	<thread>
+	"Cinema.h"
+	"Customer.h"
+	"Admin.h"
+	"Manager.h"
+
+1650543886 c:\users\laptop\desktop\c++\oop-2\seat.h
+	<iostream>
+
+1650543886 source:c:\users\laptop\desktop\c++\oop-2\seat.cpp
+	"Seat.h"
+
+1650939146 source:c:\users\laptop\desktop\c++\oop-2\hall.cpp
+	"Hall.h"
+
+1650933469 c:\users\laptop\desktop\c++\oop-2\hall.h
+	"Seat.h"
+	"GetNumber.h"
+	<fstream>
+	<string>
+	"Movie.h"
+
+1651058990 source:c:\users\laptop\desktop\c++\oop-2\admin.cpp
+	"Admin.h"
+
+1651058885 c:\users\laptop\desktop\c++\oop-2\admin.h
+	<iostream>
+	<string>
+	"User.h"
+	"Cinema.h"
+
+1649940341 source:c:\users\laptop\desktop\c++\oop-2\input.cpp
+	"input.h"
+
+1649940374 c:\users\laptop\desktop\c++\oop-2\input.h
+	<string>
+	<iostream>
+	<conio.h>
+
+1651063551 c:\users\laptop\desktop\c++\oop-2\user.h
+	<string>
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1651063569 source:c:\users\laptop\desktop\c++\oop-2\user.cpp
+	"User.h"
+
+1650366890 source:c:\users\laptop\desktop\c++\oop-2\ticke.cpp
+	"Ticket.h"
+
+1650750650 c:\users\laptop\desktop\c++\oop-2\ticket.h
+	<iostream>
+	<string>
+	"Cinema.h"
+
+1651059252 source:c:\users\laptop\desktop\c++\oop-2\manager.cpp
+	"Manager.h"
+
+1650623890 c:\users\laptop\desktop\c++\oop-2\manager.h
+	<iostream>
+	"Admin.h"
+	<fstream>
+	<string>
+
+1650934664 source:c:\users\laptop\desktop\c++\oop-2\ticket.cpp
+	"Ticket.h"
+
+1651059051 source:c:\users\laptop\desktop\c++\oop-2\cinema.cpp
+	"Cinema.h"
+
+1651058990 c:\users\laptop\desktop\c++\oop-2\cinema.h
+	"Hall.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<fstream>
+
+1650632712 c:\users\laptop\desktop\c++\oop-2\getnumber.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1650628605 source:c:\users\laptop\desktop\c++\oop-2\getnumber.cpp
+	"GetNumber.h"
+
+1650468645 c:\users\laptop\desktop\c++\oop-2\strtoint.h
+	<iostream>
+	<string>
+	<cmath>
+
+1650837741 source:c:\users\laptop\desktop\c++\oop-2\strtoint.cpp
+	"StrToInt.h"
+
+1651054572 source:c:\users\laptop\desktop\c++\oop-2\movie.cpp
+	"Movie.h"
+
+1650932359 c:\users\laptop\desktop\c++\oop-2\movie.h
+	<string>
+	<iostream>
+	<fstream>
+	"StrToInt.h"
+	"GetNumber.h"
+
+1650939676 source:c:\users\laptop\desktop\c++\oop-2\customer.cpp
+	"Customer.h"
+
+1650939676 c:\users\laptop\desktop\c++\oop-2\customer.h
+	<iostream>
+	<string>
+	"YesOrNo.h"
+	"User.h"
+	"GetNumber.h"
+	"Cinema.h"
+	"Ticket.h"
+
+1650625142 c:\users\laptop\desktop\c++\oop-2\yesorno.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1650625742 source:c:\users\laptop\desktop\c++\oop-2\yesorno.cpp
+	"YesOrNo.h"
+
+1650625756 c:\users\laptop\desktop\c++\oop-2\getdate.h
+	<iostream>
+	<string>
+	<conio.h>
+
+1650796590 source:c:\users\laptop\desktop\c++\oop-2\getdate.cpp
+	"GetDate.h"
+
+1650626275 c:\users\laptop\desktop\c++\oop-2\gettime.h
+	<iostream>
+	<string>
+	<conio.h>
+
+1650796590 source:c:\users\laptop\desktop\c++\oop-2\gettime.cpp
+	"GetTime.h"
+
+1651071349 source:c:\users\asus\desktop\oop2_project\customer.cpp
+	"Customer.h"
+
+1651071361 c:\users\asus\desktop\oop2_project\customer.h
+	<iostream>
+	<string>
+	"YesOrNo.h"
+	"User.h"
+	"GetNumber.h"
+	"Cinema.h"
+	"Ticket.h"
+
+1650625144 c:\users\asus\desktop\oop2_project\yesorno.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1650468646 c:\users\asus\desktop\oop2_project\strtoint.h
+	<iostream>
+	<string>
+	<cmath>
+
+1651073637 c:\users\asus\desktop\oop2_project\user.h
+	<string>
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1650632714 c:\users\asus\desktop\oop2_project\getnumber.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1651058992 c:\users\asus\desktop\oop2_project\cinema.h
+	"Hall.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<fstream>
+
+1650933470 c:\users\asus\desktop\oop2_project\hall.h
+	"Seat.h"
+	"GetNumber.h"
+	<fstream>
+	<string>
+	"Movie.h"
+
+1650543888 c:\users\asus\desktop\oop2_project\seat.h
+	<iostream>
+
+1650932360 c:\users\asus\desktop\oop2_project\movie.h
+	<string>
+	<iostream>
+	<fstream>
+	"StrToInt.h"
+	"GetNumber.h"
+
+1650750652 c:\users\asus\desktop\oop2_project\ticket.h
+	<iostream>
+	<string>
+	"Cinema.h"
+
+1650628606 source:c:\users\asus\desktop\oop2_project\getnumber.cpp
+	"GetNumber.h"
+
+1650939148 source:c:\users\asus\desktop\oop2_project\hall.cpp
+	"Hall.h"
+
+1650543888 source:c:\users\asus\desktop\oop2_project\seat.cpp
+	"Seat.h"
+
+1650837742 source:c:\users\asus\desktop\oop2_project\strtoint.cpp
+	"StrToInt.h"
+
+1650934666 source:c:\users\asus\desktop\oop2_project\ticket.cpp
+	"Ticket.h"
+
+1650625744 source:c:\users\asus\desktop\oop2_project\yesorno.cpp
+	"YesOrNo.h"
+
+1651071620 source:c:\users\asus\desktop\oop2_project\cinema.cpp
+	"Cinema.h"
+
+1651072815 source:c:\users\asus\desktop\oop2_project\movie.cpp
+	"Movie.h"
+
+1651063570 source:c:\users\asus\desktop\oop2_project\user.cpp
+	"User.h"
+
+1651067912 source:c:\users\asus\desktop\oop2_project\admin.cpp
+	"Admin.h"
+
+1651067321 c:\users\asus\desktop\oop2_project\admin.h
+	<iostream>
+	<string>
+	"User.h"
+	"Cinema.h"
+
+1651067295 source:c:\users\asus\desktop\oop2_project\manager.cpp
+	"Manager.h"
+
+1651067278 c:\users\asus\desktop\oop2_project\manager.h
+	<iostream>
+	"Admin.h"
+	<fstream>
+	<string>
+
+1651073763 source:c:\users\asus\desktop\oop2_project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<chrono>
+	<thread>
+	"Cinema.h"
+	"Customer.h"
+	"Admin.h"
+	"Manager.h"
+	"YesOrNo.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\admin.cpp
+	"Admin.h"
+
+1651031346 c:\users\laptop\desktop\c++\admin.h
+	<iostream>
+	<string>
+	"User.h"
+	"Cinema.h"
+
+1651031346 c:\users\laptop\desktop\c++\user.h
+	<string>
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1651031346 c:\users\laptop\desktop\c++\cinema.h
+	"Hall.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<fstream>
+
+1651031346 c:\users\laptop\desktop\c++\hall.h
+	"Seat.h"
+	"GetNumber.h"
+	<fstream>
+	<string>
+	"Movie.h"
+
+1651031346 c:\users\laptop\desktop\c++\seat.h
+	<iostream>
+
+1651031346 c:\users\laptop\desktop\c++\getnumber.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1651031346 c:\users\laptop\desktop\c++\strtoint.h
+	<iostream>
+	<string>
+	<cmath>
+
+1651031346 c:\users\laptop\desktop\c++\movie.h
+	<string>
+	<iostream>
+	<fstream>
+	"StrToInt.h"
+	"GetNumber.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\cinema.cpp
+	"Cinema.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\customer.cpp
+	"Customer.h"
+
+1651031346 c:\users\laptop\desktop\c++\customer.h
+	<iostream>
+	<string>
+	"YesOrNo.h"
+	"User.h"
+	"GetNumber.h"
+	"Cinema.h"
+	"Ticket.h"
+
+1651031346 c:\users\laptop\desktop\c++\yesorno.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1651031346 c:\users\laptop\desktop\c++\ticket.h
+	<iostream>
+	<string>
+	"Cinema.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\getnumber.cpp
+	"GetNumber.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\hall.cpp
+	"Hall.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\manager.cpp
+	"Manager.h"
+
+1651031346 c:\users\laptop\desktop\c++\manager.h
+	<iostream>
+	"Admin.h"
+	<fstream>
+	<string>
+
+1651031346 source:c:\users\laptop\desktop\c++\movie.cpp
+	"Movie.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\seat.cpp
+	"Seat.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\strtoint.cpp
+	"StrToInt.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\ticket.cpp
+	"Ticket.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\user.cpp
+	"User.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\yesorno.cpp
+	"YesOrNo.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\oop-2 upgraded\admin.cpp
+	"Admin.h"
+
+1651031346 c:\users\laptop\desktop\c++\oop-2 upgraded\admin.h
+	<iostream>
+	<string>
+	"User.h"
+	"Cinema.h"
+
+1651078555 c:\users\laptop\desktop\c++\oop-2 upgraded\user.h
+	<string>
+	<iostream>
+	<conio.h>
+	<fstream>
+	"Freeze.h"
+
+1651073823 c:\users\laptop\desktop\c++\oop-2 upgraded\freeze.h
+	<thread>
+	<chrono>
+
+1651095634 c:\users\laptop\desktop\c++\oop-2 upgraded\cinema.h
+	"Hall.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<fstream>
+	"Freeze.h"
+
+1651031346 c:\users\laptop\desktop\c++\oop-2 upgraded\hall.h
+	"Seat.h"
+	"GetNumber.h"
+	<fstream>
+	<string>
+	"Movie.h"
+
+1651031346 c:\users\laptop\desktop\c++\oop-2 upgraded\seat.h
+	<iostream>
+
+1651031346 c:\users\laptop\desktop\c++\oop-2 upgraded\getnumber.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1651031346 c:\users\laptop\desktop\c++\oop-2 upgraded\strtoint.h
+	<iostream>
+	<string>
+	<cmath>
+
+1651096937 c:\users\laptop\desktop\c++\oop-2 upgraded\movie.h
+	<string>
+	<iostream>
+	<fstream>
+	"StrToInt.h"
+	"GetNumber.h"
+
+1651096468 source:c:\users\laptop\desktop\c++\oop-2 upgraded\cinema.cpp
+	"Cinema.h"
+
+1651086416 source:c:\users\laptop\desktop\c++\oop-2 upgraded\customer.cpp
+	"Customer.h"
+
+1651080216 c:\users\laptop\desktop\c++\oop-2 upgraded\customer.h
+	<iostream>
+	<string>
+	"YesOrNo.h"
+	"User.h"
+	"GetNumber.h"
+	"Cinema.h"
+	"Ticket.h"
+
+1651031346 c:\users\laptop\desktop\c++\oop-2 upgraded\yesorno.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1651081368 c:\users\laptop\desktop\c++\oop-2 upgraded\ticket.h
+	<iostream>
+	<string>
+	"Cinema.h"
+
+1651073774 source:c:\users\laptop\desktop\c++\oop-2 upgraded\freeze.cpp
+	"Freeze.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\oop-2 upgraded\getnumber.cpp
+	"GetNumber.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\oop-2 upgraded\hall.cpp
+	"Hall.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\oop-2 upgraded\manager.cpp
+	"Manager.h"
+
+1651031346 c:\users\laptop\desktop\c++\oop-2 upgraded\manager.h
+	<iostream>
+	"Admin.h"
+	<fstream>
+	<string>
+
+1651096319 source:c:\users\laptop\desktop\c++\oop-2 upgraded\movie.cpp
+	"Movie.h"
+
+1651086416 source:c:\users\laptop\desktop\c++\oop-2 upgraded\seat.cpp
+	"Seat.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\oop-2 upgraded\strtoint.cpp
+	"StrToInt.h"
+
+1651081368 source:c:\users\laptop\desktop\c++\oop-2 upgraded\ticket.cpp
+	"Ticket.h"
+
+1651079056 source:c:\users\laptop\desktop\c++\oop-2 upgraded\user.cpp
+	"User.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\oop-2 upgraded\yesorno.cpp
+	"YesOrNo.h"
+
+1651096529 source:c:\users\laptop\desktop\c++\oop-2 upgraded\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<chrono>
+	<thread>
+	"Cinema.h"
+	"Customer.h"
+	"Manager.h"
+	"Freeze.h"
+
+1651241746 source:c:\users\laptop\desktop\c++\нно БЯ\admin.cpp
+	"Admin.h"
+
+1651239385 c:\users\laptop\desktop\c++\нно БЯ\admin.h
+	<iostream>
+	<string>
+	"User.h"
+	"Cinema.h"
+
+1651250841 c:\users\laptop\desktop\c++\нно БЯ\user.h
+	<string>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<sys/stat.h>
+	"Freeze.h"
+
+1651073824 c:\users\laptop\desktop\c++\нно БЯ\freeze.h
+	<thread>
+	<chrono>
+
+1651095636 c:\users\laptop\desktop\c++\нно БЯ\cinema.h
+	"Hall.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<fstream>
+	"Freeze.h"
+
+1651167587 c:\users\laptop\desktop\c++\нно БЯ\hall.h
+	"Seat.h"
+	"GetNumber.h"
+	<fstream>
+	<string>
+	"Movie.h"
+
+1651031346 c:\users\laptop\desktop\c++\нно БЯ\seat.h
+	<iostream>
+
+1651031346 c:\users\laptop\desktop\c++\нно БЯ\getnumber.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1651031346 c:\users\laptop\desktop\c++\нно БЯ\strtoint.h
+	<iostream>
+	<string>
+	<cmath>
+
+1651096938 c:\users\laptop\desktop\c++\нно БЯ\movie.h
+	<string>
+	<iostream>
+	<fstream>
+	"StrToInt.h"
+	"GetNumber.h"
+
+1651422049 source:c:\users\laptop\desktop\c++\нно БЯ\cinema.cpp
+	"Cinema.h"
+
+1651421778 source:c:\users\laptop\desktop\c++\нно БЯ\customer.cpp
+	"Customer.h"
+
+1651238312 c:\users\laptop\desktop\c++\нно БЯ\customer.h
+	<iostream>
+	<string>
+	"YesOrNo.h"
+	"User.h"
+	"GetNumber.h"
+	"Cinema.h"
+	"Ticket.h"
+
+1651031346 c:\users\laptop\desktop\c++\нно БЯ\yesorno.h
+	<iostream>
+	<conio.h>
+	"StrToInt.h"
+
+1651081370 c:\users\laptop\desktop\c++\нно БЯ\ticket.h
+	<iostream>
+	<string>
+	"Cinema.h"
+
+1651073776 source:c:\users\laptop\desktop\c++\нно БЯ\freeze.cpp
+	"Freeze.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\нно БЯ\getnumber.cpp
+	"GetNumber.h"
+
+1651420023 source:c:\users\laptop\desktop\c++\нно БЯ\hall.cpp
+	"Hall.h"
+
+1651242080 source:c:\users\laptop\desktop\c++\нно БЯ\manager.cpp
+	"Manager.h"
+
+1651031346 c:\users\laptop\desktop\c++\нно БЯ\manager.h
+	<iostream>
+	"Admin.h"
+	<fstream>
+	<string>
+
+1651086418 source:c:\users\laptop\desktop\c++\нно БЯ\seat.cpp
+	"Seat.h"
+
+1651031346 source:c:\users\laptop\desktop\c++\нно БЯ\strtoint.cpp
+	"StrToInt.h"
+
+1651410604 source:c:\users\laptop\desktop\c++\нно БЯ\ticket.cpp
+	"Ticket.h"
+
+1651421958 source:c:\users\laptop\desktop\c++\нно БЯ\user.cpp
+	"User.h"
+
+1651421020 source:c:\users\laptop\desktop\c++\нно БЯ\yesorno.cpp
+	"YesOrNo.h"
+
+1651422310 source:c:\users\laptop\desktop\c++\нно БЯ\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<chrono>
+	<thread>
+	"Cinema.h"
+	"Customer.h"
+	"Manager.h"
+	"Freeze.h"
+
+1651420501 source:c:\users\laptop\desktop\c++\нно БЯ\movie.cpp
+	"Movie.h"
+
